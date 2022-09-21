@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-09-21T03:38:46.505Z" agent="5.0 (Windows)" etag="p61zWt4wfsokRbQxHHgm" version="20.3.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-09-21T03:46:18.640Z" agent="5.0 (Windows)" etag="wblQuJwOfX4GduzqfKQ9" version="20.3.0" type="github">
   <diagram id="ckzgcsahci8-rYzXFJDU" name="Página-1">
-    <mxGraphModel dx="1634" dy="752" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
+    <mxGraphModel dx="1562" dy="655" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -442,7 +442,7 @@
           <mxGeometry x="60" y="589" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="UjrP7nYgxziAXxFrALu0-7" value="Ordenes" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;fontSize=11;" vertex="1" parent="1">
-          <mxGeometry x="20" y="667" width="210" height="156" as="geometry">
+          <mxGeometry x="20" y="667" width="210" height="147" as="geometry">
             <mxRectangle x="30" y="10" width="50" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
